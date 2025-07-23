@@ -1,0 +1,6 @@
+{
+  "name": "Document Summarizer AI",
+  "description": "An AI-powered tool for records officers to generate concise summaries of documents for transmission or forwarding.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
